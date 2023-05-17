@@ -30,7 +30,7 @@ public class GoalEditor : MonoBehaviour
         //can create new goal
         else
         {
-            Debug.Log("create goal");
+            Debug.Log("create goal!");
         }
     }
 
