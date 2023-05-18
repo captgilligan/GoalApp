@@ -15,4 +15,7 @@ public class Goal
 
     [SerializeField]
     public bool canEdit;
+
+    [SerializeField]
+    public string goalID;
 }

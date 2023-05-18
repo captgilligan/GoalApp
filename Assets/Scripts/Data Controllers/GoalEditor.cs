@@ -39,6 +39,11 @@ public class GoalEditor : MonoBehaviour
         Debug.Log("Missing field entry to create goal");
     }
 
+    public void LoadGoal(string goalID)
+    {
+        Debug.Log("loading goal");
+    }
+
 
     public void CheckInput()
     {
